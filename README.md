@@ -1,4 +1,4 @@
-# GNAT GPL 2016 bugs
+# GNAT GPL 2017 bugs
 
 Test cases for various bugs in the latest GNAT GPL edition, to check their fixing on successive editions.
 
