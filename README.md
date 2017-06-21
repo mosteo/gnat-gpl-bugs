@@ -8,5 +8,5 @@ Files in `src/fixed` are reproducers for bugs already fixed in the current GPL e
 
 ## Status ##
 
-All bugs I reported in 2016 are fixed in the 2017 adition.
+All bugs I reported in 2016 are fixed in the 2017 edition.
 No new bugs known yet.
