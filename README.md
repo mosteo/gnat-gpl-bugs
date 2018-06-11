@@ -1,6 +1,6 @@
-# GNAT GPL 2017 bugs
+# GNAT GPL bugs
 
-Test cases for various bugs in the latest GNAT GPL edition, to check their fixing on successive editions.
+Test cases for various bugs in the latest GNAT GPL/Community edition.
 
 Files in `src` folder are stand-alone open bug reproducers.
 
@@ -8,5 +8,4 @@ Files in `src/fixed` are reproducers for bugs already fixed in the current GPL e
 
 ## Status ##
 
-All bugs I reported in 2016 are fixed in the 2017 edition.
-No new bugs known yet.
+Check the [src] folder for current bug reproducers.
